@@ -1,0 +1,376 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+#a1{
+    height: 600px;
+    width: 100%;
+    background-color: rgba(60, 107, 207, 0.619);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+#a2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(0, 255, 200);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 2px solid black;
+    
+}
+
+#btn{
+    height: 20px;
+    border-radius: 5px;
+    border: 0px solid white;
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+    width: 1.2cm;
+    
+    
+}
+#btn:hover{
+    background-color: greenyellow;
+}
+#btn1{
+    height: 20px;
+    margin-left: 23px;
+    border-radius: 5px;
+    border: 0px solid white;
+    color: black;
+    width: 3cm;
+}
+#btn1>a{
+    text-decoration: none;
+}
+#btn1:hover{
+    background-color: greenyellow;
+}
+#a3{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+  
+
+}
+#a4{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+}
+#a5{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 26px;
+
+}
+#a6{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 28px;
+
+}
+#a7{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 22px;
+
+}
+#a8{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+
+}
+
+
+
+#btn2{
+    height: 20px;
+    margin-left: 65px;
+    border-radius: 5px;
+    border: 0px solid white;
+    color: black;
+    width: 3cm;
+    cursor: pointer;
+}
+#btn2:hover{
+    background-color: greenyellow;
+}
+#a9{
+    height: 550px;
+    width: 700px;
+    background-color: rgb(0, 255, 200);
+  
+    border-radius: 10px;
+    border: 2px solid black;
+    
+}
+#a10{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+#b>a{
+    text-decoration: none;
+}
+
+
+#btn3{
+    height: 20px;
+    border-radius: 5px;
+    border: 0px solid white;
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+    width: 5cm;
+}
+#btn3:hover{
+    background-color: red;
+}
+#b2{
+    height: 300px;
+    width: 400px;
+    background-color: yellow;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#b3{
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+#b4{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 28px;
+
+}
+#b5{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 32px;
+  
+
+}#b6{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 25px;
+  
+
+}#b7{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 5px;
+  
+
+}#b8{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 55px;
+  
+
+}
+#btn4{
+    height: 20px;
+    border-radius: 5px;
+    border: 0px solid white;
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+    width: 1.2cm;
+    margin-left: 100px;
+    width: 2cm;
+    
+    
+}
+#btn4:hover{
+    background-color: rgb(255, 234, 47);
+}
+
+#c{ height: 300px;
+    width: 300px;
+    background-color: rgb(0, 255, 200);
+    border-radius: 5px;
+}
+#c1{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+#btn5{
+    height: 20px;
+    border-radius: 5px;
+    border: 0px solid white;
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+    width: 1.2cm;
+    margin-left: 100px;
+    width: 2cm;
+    
+    
+}
+#btn5:hover{
+    background-color: rgb(255, 47, 47);
+}
+#c3{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(0, 255, 200);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 2px solid black;
+   
+}
+#c4{
+    margin-right: 50px;
+}
+#b4{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 28px;
+
+}#c5{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 52px;
+
+}#c6{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 52px;
+
+}#c7{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 30px;
+
+}#c8{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 15px;
+
+}
+#c9{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 5cm;
+    margin-left: 65px;
+
+}
+#btn6{
+    height: 20px;
+    border-radius: 5px;
+    border: 0px solid white;
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+    width: 1.2cm;
+    margin-left: 100px;
+    width: 3cm;
+
+}
+#btn6:hover{
+    background-color: rgb(47, 206, 255);
+}
+
+#d1{
+    height: 600px;
+    width: 100%;
+    background-color: rgba(60, 146, 207, 0.619);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+#d2{
+    height: 400px;
+    width: 1000px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 2px solid black;
+    /* word-spacing: 5px; */
+    
+}
+#d2>table{
+    height: 130px;
+    border: 1px solid black;
+    
+}
+#d2>table>thead{
+    border: 1px solid black;
+}
+#d2>table>thead>tr>th{
+    width: 90px;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+#d2>table>tbody>tr>td{
+    text-align: center;
+    height: 70px;
+    border: 1px solid black;
+}
+
+#btn7{
+    height: 20px;
+    border-radius: 5px;
+    border: 0px solid white;
+    background-color: greenyellow;
+    color: black;
+    cursor: pointer;
+    width: 1.2cm;
+    
+}
+#btn7:hover{
+    background-color: darkcyan;
+}
+#btn8{
+    height: 20px;
+    border-radius: 5px;
+    border: 0px solid white;
+    background-color: red;
+    color: black;
+    cursor: pointer; 
+    margin-left: 10px;
+    width: 2cm;
+}
+#btn8:hover{
+    background-color: darkred;
+}
+#btn9:hover{
+    background-color:   darkorange;
+}
+#btn9{
+    height: 20px;
+    border-radius: 5px;
+    border: 0px solid white;
+    background-color: yellow;
+    color: black;
+    cursor: pointer; 
+    margin-left: 90px;
+    width: 3cm;
+}
